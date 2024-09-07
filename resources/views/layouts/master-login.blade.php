@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Basic Form - jQuery EasyUI Demo</title>
+	<title>Sistem Management System</title>
 	<link rel="stylesheet" type="text/css" href={{ asset('template/themes/default/easyui.css') }}>
 	<link rel="stylesheet" type="text/css" href={{ asset("template/themes/icon.css") }}>
 	<link rel="stylesheet" type="text/css" href="../demo.css">
